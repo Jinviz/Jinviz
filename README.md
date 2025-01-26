@@ -1,7 +1,8 @@
 <div align="center">
-<!--   <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" /> -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=capsule%20render&fontSize=90" />
+  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
   <img src="https://github-readme-stats.vercel.app/api?username=Jinviz&show_icons=true&theme=radical" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinviz&layout=compact" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kb1812" />
 </div>
 
@@ -46,32 +47,29 @@
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+<div align="">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/miricanvas-03C75A.svg?style=for-the-badge&logo=canvas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+<div align="left">
+  <img src="https://img.shields.io/badge/miricanvas-111111.svg?style=for-the-badge&logo=canvas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/figma-111111.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<!-- <div align="center">
   <a href="https://medium.com/@rlawlsdn9583">
     <img src="https://img.shields.io/badge/Medium-1EBC8F?style=for-the-badge&logo=Medium&logoColor=white" />&nbsp
-<!--   </a>
+  </a>
   <a href="20212908@soongsil.ac.kr">
     <img
       src="https://img.shields.io/badge/20212908@soongsil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
@@ -83,23 +81,6 @@
   <a href="https://www.instagram.com/j_naary/">
     <img
       src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
-  </a> -->
-</div>
+  </a>
+</div> -->
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{j-nary}" width="1000" height="250"/>
-</a>
-<!--
-**j-nary/j-nary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -1,3 +1,4 @@
+<a href="https://hits.seeyoufarm.com" align="right"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinviz%2Fhit-counter&count_bg=%232C73D2&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=2c73d2&text=Jinwoo%20Kim&fontColor=ffffff&reversal=false&section=header" />
 <div align="center">
@@ -58,7 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jinviz&show_icons=true&theme=github_dark_dimmed&hide_rank=true&hide=stars" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kb1812" /> 
 </div>
-
 
 <!-- <div align="center">
   <a href="https://medium.com/@rlawlsdn9583">

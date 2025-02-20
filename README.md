@@ -1,70 +1,62 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=capsule%20render&fontSize=90" />
-  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Jinviz&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinviz&layout=compact" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kb1812" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=2c73d2&text=Jinwoo%20Kim&fontColor=ffffff&reversal=false&section=header" />
 </div>
-
-<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-111111.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-111111.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/python-111111.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-111111.svg?style=for-the-badge&logo=coffeescript&logoColor=white" />&nbsp
 </div>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/react-111111.svg?style=for-the-badge&logo=react&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/next.js-111111.svg?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Shadcn%20ui-111111.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white" />&nbsp
 </div>
-
-<br>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/openCV-11557c.svg?style=for-the-badge&logo=openCV&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/tanstack Query-111111.svg?style=for-the-badge&logo=reactquery&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/recoil-111111.svg?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jotai-111111.svg?style=for-the-badge&logo=ghostery&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/context-111111.svg?style=for-the-badge&logo=reacttable&logoColor=white" />&nbsp
 </div>
-
-<br>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/tailwind css-111111.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/styled components-111111.svg?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/scss-111111.svg?style=for-the-badge&logo=sass&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/storybook-111111.svg?style=for-the-badge&logo=storybook&logoColor=white" />&nbsp
 </div>
-
-<!--
-<br>
-<h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/docker-111111.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/kubernetes-111111.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pwa-111111.svg?style=for-the-badge&logo=pwa&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/vercel-111111.svg?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp
 </div>
--->
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+<div align="center">
+  <img src="https://img.shields.io/badge/supabase-111111.svg?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/firebase-111111.svg?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/threejs-111111.svg?style=for-the-badge&logo=three.js&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/chartjs-111111.svg?style=for-the-badge&logo=chart.js&logoColor=white" />&nbsp
 </div>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/miricanvas-111111.svg?style=for-the-badge&logo=canvas&logoColor=white" />&nbsp
+<div align="center">
+  <img src="https://img.shields.io/badge/jira-111111.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/slack-111111.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/git-111111.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-111111.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/postman-111111.svg?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/notion-111111.svg?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp
 </div>
 
-<br>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jinviz&show_icons=true&theme=github_dark_dimmed" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinviz&layout=compact&theme=github_dark_dimmed" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kb1812" /> 
 </div>
 
-<br>
 
 <!-- <div align="center">
   <a href="https://medium.com/@rlawlsdn9583">

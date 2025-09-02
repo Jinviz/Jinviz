@@ -17,66 +17,66 @@
 ### ▪ Tech Stack
 ### Strong
 <div align="left">
-  <img src="https://img.shields.io/badge/react-212830.svg?style=for-the-badge&logo=react&logoColor=#61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/next.js-212830.svg?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/fsd-212830.svg?style=for-the-badge&logo=ipfs&logoColor=#65C2CB" />&nbsp
+  <img src="https://img.shields.io/badge/react-3e4351.svg?style=for-the-badge&logo=react&logoColor=#61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/next.js-3e4351.svg?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/fsd-3e4351.svg?style=for-the-badge&logo=ipfs&logoColor=#65C2CB" />&nbsp
 </div>
 </div>
 <div align="left">
-  <img src="https://img.shields.io/badge/javascript-212830.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-212830.svg?style=for-the-badge&logo=typescript&logoColor=#3178C6" />&nbsp
-  <img src="https://img.shields.io/badge/python-212830.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />&nbsp
-  <img src="https://img.shields.io/badge/java-212830.svg?style=for-the-badge&logo=coffeescript&logoColor=#F98309" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-3e4351.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-3e4351.svg?style=for-the-badge&logo=typescript&logoColor=#3178C6" />&nbsp
+  <img src="https://img.shields.io/badge/python-3e4351.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />&nbsp
 </div>
 <div align="left">
-  <img src="https://img.shields.io/badge/tanstack Query-212830.svg?style=for-the-badge&logo=reactquery&logoColor=#FF4154" />&nbsp
-  <img src="https://img.shields.io/badge/zustand-212830.svg?style=for-the-badge&logo=zola&logoColor=#251A15" />&nbsp
-  <img src="https://img.shields.io/badge/jotai-212830.svg?style=for-the-badge&logo=ghostery&logoColor=#56347C" />&nbsp
+  <img src="https://img.shields.io/badge/tanstack Query-3e4351.svg?style=for-the-badge&logo=reactquery&logoColor=#FF4154" />&nbsp
+  <img src="https://img.shields.io/badge/zustand-3e4351.svg?style=for-the-badge&logo=zola&logoColor=#251A15" />&nbsp
+  <img src="https://img.shields.io/badge/jotai-3e4351.svg?style=for-the-badge&logo=ghostery&logoColor=#56347C" />&nbsp
 </div>
 <div align="left">
-  <img src="https://img.shields.io/badge/tailwind css-212830.svg?style=for-the-badge&logo=tailwind-css&logoColor=#06B6D4" />&nbsp
-  <img src="https://img.shields.io/badge/styled components-212830.svg?style=for-the-badge&logo=styled-components&logoColor=#DB7093" />&nbsp
-  <img src="https://img.shields.io/badge/Shadcn%20ui-212830.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white" />&nbsp
-</div>
-<div align="left">
-  <img src="https://img.shields.io/badge/jira-212830.svg?style=for-the-badge&logo=jira&logoColor=#0052CC" />&nbsp
-  <img src="https://img.shields.io/badge/slack-212830.svg?style=for-the-badge&logo=slack&logoColor=#4A154B" />&nbsp
-  <img src="https://img.shields.io/badge/git-212830.svg?style=for-the-badge&logo=git&logoColor=#F05032" />&nbsp
-  <img src="https://img.shields.io/badge/notion-212830.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/postman-212830.svg?style=for-the-badge&logo=postman&logoColor=#FF6C37" />&nbsp
-  <img src="https://img.shields.io/badge/linux-212830.svg?style=for-the-badge&logo=linux&logoColor=#FCC624" />&nbsp
+  <img src="https://img.shields.io/badge/tailwind css-3e4351.svg?style=for-the-badge&logo=tailwind-css&logoColor=#06B6D4" />&nbsp
+  <img src="https://img.shields.io/badge/styled components-3e4351.svg?style=for-the-badge&logo=styled-components&logoColor=#DB7093" />&nbsp
+  <img src="https://img.shields.io/badge/Shadcn%20ui-3e4351.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white" />&nbsp
 </div>
 
 ### Knowledgeable
 <div align="left">
-  <img src="https://img.shields.io/badge/java-212830.svg?style=for-the-badge&logo=coffeescript&logoColor=#F98309" />&nbsp
-  <img src="https://img.shields.io/badge/c++-212830.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />&nbsp
-  <img src="https://img.shields.io/badge/c-212830.svg?style=for-the-badge&logo=c&logoColor=#A8B9CC" />&nbsp
+  <img src="https://img.shields.io/badge/java-3e4351.svg?style=for-the-badge&logo=coffeescript&logoColor=#F98309" />&nbsp
+  <img src="https://img.shields.io/badge/c++-3e4351.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />&nbsp
+  <img src="https://img.shields.io/badge/c-3e4351.svg?style=for-the-badge&logo=c&logoColor=#A8B9CC" />&nbsp
 </div>
 <div align="left">
-  <img src="https://img.shields.io/badge/recoil-212830.svg?style=for-the-badge&logo=recoil&logoColor=#3578E5" />&nbsp
-  <img src="https://img.shields.io/badge/context-212830.svg?style=for-the-badge&logo=reacttable&logoColor=#F98309" />&nbsp
+  <img src="https://img.shields.io/badge/recoil-3e4351.svg?style=for-the-badge&logo=recoil&logoColor=#3578E5" />&nbsp
+  <img src="https://img.shields.io/badge/context-3e4351.svg?style=for-the-badge&logo=reacttable&logoColor=#F98309" />&nbsp
 </div>
 <div align="left">
-  <img src="https://img.shields.io/badge/tailwind css-212830.svg?style=for-the-badge&logo=tailwind-css&logoColor=#06B6D4" />&nbsp
-  <img src="https://img.shields.io/badge/styled components-212830.svg?style=for-the-badge&logo=styled-components&logoColor=#DB7093" />&nbsp
-  <img src="https://img.shields.io/badge/scss-212830.svg?style=for-the-badge&logo=sass&logoColor=#CC6699" />&nbsp
-  <img src="https://img.shields.io/badge/storybook-212830.svg?style=for-the-badge&logo=storybook&logoColor=#FF4785" />&nbsp
+  <img src="https://img.shields.io/badge/tailwind css-3e4351.svg?style=for-the-badge&logo=tailwind-css&logoColor=#06B6D4" />&nbsp
+  <img src="https://img.shields.io/badge/styled components-3e4351.svg?style=for-the-badge&logo=styled-components&logoColor=#DB7093" />&nbsp
+  <img src="https://img.shields.io/badge/scss-3e4351.svg?style=for-the-badge&logo=sass&logoColor=#CC6699" />&nbsp
+  <img src="https://img.shields.io/badge/storybook-3e4351.svg?style=for-the-badge&logo=storybook&logoColor=#FF4785" />&nbsp
 </div>
 <div align="left">
-  <img src="https://img.shields.io/badge/docker-212830.svg?style=for-the-badge&logo=docker&logoColor=#2496ED" />&nbsp
-  <img src="https://img.shields.io/badge/kubernetes-212830.svg?style=for-the-badge&logo=kubernetes&logoColor=#326CE5" />&nbsp
-  <img src="https://img.shields.io/badge/pwa-212830.svg?style=for-the-badge&logo=pwa&logoColor=#5A0FC8" />&nbsp
-  <img src="https://img.shields.io/badge/vercel-212830.svg?style=for-the-badge&logo=vercel&logoColor=#000000" />&nbsp
-  <img src="https://img.shields.io/badge/supabase-212830.svg?style=for-the-badge&logo=supabase&logoColor=#3FCF8E" />&nbsp
-  <img src="https://img.shields.io/badge/firebase-212830.svg?style=for-the-badge&logo=firebase&logoColor=#DD2C00" />&nbsp
+  <img src="https://img.shields.io/badge/docker-3e4351.svg?style=for-the-badge&logo=docker&logoColor=#2496ED" />&nbsp
+  <img src="https://img.shields.io/badge/kubernetes-3e4351.svg?style=for-the-badge&logo=kubernetes&logoColor=#326CE5" />&nbsp
+  <img src="https://img.shields.io/badge/pwa-3e4351.svg?style=for-the-badge&logo=pwa&logoColor=#5A0FC8" />&nbsp
+  <img src="https://img.shields.io/badge/vercel-3e4351.svg?style=for-the-badge&logo=vercel&logoColor=#000000" />&nbsp
+  <img src="https://img.shields.io/badge/supabase-3e4351.svg?style=for-the-badge&logo=supabase&logoColor=#3FCF8E" />&nbsp
+  <img src="https://img.shields.io/badge/firebase-3e4351.svg?style=for-the-badge&logo=firebase&logoColor=#DD2C00" />&nbsp
 </div>
 <div align="left">
-  <img src="https://img.shields.io/badge/figma-212830.svg?style=for-the-badge&logo=figma&logoColor=#F24E1E" />&nbsp
-  <img src="https://img.shields.io/badge/UnrealEngine-212830.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/githubactions-212830.svg?style=for-the-badge&logo=githubactions&logoColor=#2088FF" />&nbsp
+  <img src="https://img.shields.io/badge/figma-3e4351.svg?style=for-the-badge&logo=figma&logoColor=#F24E1E" />&nbsp
+  <img src="https://img.shields.io/badge/UnrealEngine-3e4351.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/githubactions-3e4351.svg?style=for-the-badge&logo=githubactions&logoColor=#2088FF" />&nbsp
+  <img src="https://img.shields.io/badge/linux-3e4351.svg?style=for-the-badge&logo=linux&logoColor=#FCC624" />&nbsp
+  <img src="https://img.shields.io/badge/postman-3e4351.svg?style=for-the-badge&logo=postman&logoColor=#FF6C37" />&nbsp
 </div>
-
+<!--
+<div align="left">
+  <img src="https://img.shields.io/badge/jira-3e4351.svg?style=for-the-badge&logo=jira&logoColor=#0052CC" />&nbsp
+  <img src="https://img.shields.io/badge/slack-3e4351.svg?style=for-the-badge&logo=slack&logoColor=#4A154B" />&nbsp
+  <img src="https://img.shields.io/badge/git-3e4351.svg?style=for-the-badge&logo=git&logoColor=#F05032" />&nbsp
+  <img src="https://img.shields.io/badge/notion-3e4351.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/postman-3e4351.svg?style=for-the-badge&logo=postman&logoColor=#FF6C37" />&nbsp
+</div> -->
 
 <br/>
 <br/>

@@ -1,6 +1,3 @@
-# 김진우 · Jinwoo Kim
-
-
 ## ▪ My value
 > 계란에 바위가 깨지다
 

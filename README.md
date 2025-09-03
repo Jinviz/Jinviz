@@ -1,7 +1,7 @@
-## 김진우 · Jinwoo Kim
+# 김진우 · Jinwoo Kim
 
 
-### ▪ My value
+## ▪ My value
 > 계란에 바위가 깨지다
 
 불가능한 것에 도전하는 것을 즐깁니다.</br>
@@ -12,13 +12,12 @@
 단순히 개발 실력만 뛰어난 사람이 아니라, </br>
 함께 일하기 좋은 동료, 소통할 수 있는 사람으로서의 개발자를 지향합니다.
 
-</br>
-### ▪ Interest 
-1. SSR 기반 프레임워크를 활용하여 사용자 경험을 개선하는 방법에 관심이 있습니다.  
-2. 프론트엔드 아키텍처에서 책임이 명확히 분리된 코드 설계에 관심을 가지고 있습니다
-3. 추후 3D·WebGL 기술을 활용한 웹 UI 시각화에 구현에 관심이 있습니다.
+## ▪ Interest 
+1. SSR 기반 프레임워크를 활용하여 사용자 경험을 개선하는 방법에 관심이 있습니다.  </br>
+2. 프론트엔드 아키텍처에서 책임이 명확히 분리된 코드 설계에 관심을 가지고 있습니다. </br>
+3. 추후 3D·WebGL 기술을 활용한 웹 UI 시각화에도 관심이 있습니다. </br>
 
-### ▪ Tech Stack
+## ▪ Tech Stack
 ### Strong
 <div align="left">
   <img src="https://img.shields.io/badge/react-3e4351.svg?style=for-the-badge&logo=react&logoColor=#61DAFB" />&nbsp

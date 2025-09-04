@@ -47,10 +47,6 @@
 <div align="left">
   <img src="https://img.shields.io/badge/recoil-3e4351.svg?style=for-the-badge&logo=recoil&logoColor=#3578E5" />&nbsp
   <img src="https://img.shields.io/badge/context-3e4351.svg?style=for-the-badge&logo=reacttable&logoColor=#F98309" />&nbsp
-</div>
-<div align="left">
-  <img src="https://img.shields.io/badge/tailwind css-3e4351.svg?style=for-the-badge&logo=tailwind-css&logoColor=#06B6D4" />&nbsp
-  <img src="https://img.shields.io/badge/styled components-3e4351.svg?style=for-the-badge&logo=styled-components&logoColor=#DB7093" />&nbsp
   <img src="https://img.shields.io/badge/scss-3e4351.svg?style=for-the-badge&logo=sass&logoColor=#CC6699" />&nbsp
   <img src="https://img.shields.io/badge/storybook-3e4351.svg?style=for-the-badge&logo=storybook&logoColor=#FF4785" />&nbsp
 </div>

@@ -8,6 +8,9 @@
 
 단순히 개발 실력만 뛰어난 사람이 아니라, </br>
 함께 일하기 좋은 동료, 소통할 수 있는 사람으로서의 개발자를 지향합니다.
+
+ ![](https://komarev.com/ghpvc/?username=jinviz&color=lightgrey)
+
 <!--
 ## ▪ Interest 
 1. SSR 기반 프레임워크를 활용하여 사용자 경험을 개선하는 방법에 관심이 있습니다.  </br>

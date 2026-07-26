@@ -9,7 +9,7 @@
 단순히 개발 실력만 뛰어난 사람이 아니라, </br>
 함께 일하기 좋은 동료, 소통할 수 있는 사람으로서의 개발자를 지향합니다.
 
- ![](https://komarev.com/ghpvc/?username=jinviz&color=lightgrey)
+<!-- ![](https://komarev.com/ghpvc/?username=jinviz&color=lightgrey)
 
 <!--
 ## ▪ Interest 
